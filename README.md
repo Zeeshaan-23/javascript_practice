@@ -7,3 +7,4 @@ A collection of JavaScript projects built while learning JavaScript.
 - Counter Program
 - Number Guessing Game
 - Temperatur Conversion Program
+- Dice Roller Program
