@@ -8,3 +8,4 @@ A collection of JavaScript projects built while learning JavaScript.
 - Number Guessing Game
 - Temperatur Conversion Program
 - Dice Roller Program
+- Random Password Generator 
