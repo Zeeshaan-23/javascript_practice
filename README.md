@@ -10,3 +10,4 @@ A collection of JavaScript projects built while learning JavaScript.
 - Dice Roller Program
 - Random Password Generator 
 - Digital Clock Program
+- Stopwatch Program
